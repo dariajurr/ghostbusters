@@ -4,7 +4,7 @@
 Использовались:
 - HTML
 - CSS
-- jQuery
+- JavaScript, jQuery
 - плагин jquery.fancybox
 - слайдер swiper
 
